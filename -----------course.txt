@@ -1,0 +1,27 @@
+-----------course
+
+a student can subsribe the course
+
+-------course should be assigned to a teacher
+
+
+---------teacher can have multpie courses
+
+-----------------api 
+
+
+get students by course (single course main kitney students)
+
+=====
+
+all courses
+
+
+get courses by teacher (aik teacher ke courses)
+
+
+
+
+list of students on a course
+
+list of student for a teacher (multiple courses)
